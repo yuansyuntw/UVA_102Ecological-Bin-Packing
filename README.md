@@ -4,9 +4,9 @@
 
 My Step:
 
-1.Read input data.
-2.Calcaulation Movement
-3.Output information
+1.	Read input data.
+2.	Calcaulation Movement
+3.	Output information
 
 ## Step1: Read input data.
 Input : B G C B G C B G C
