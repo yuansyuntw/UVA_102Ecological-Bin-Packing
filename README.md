@@ -3,6 +3,7 @@
 ## Solve the problem
 
 My Step:
+
 1.Read input data.
 2.Calcaulation Movement
 3.Output information
